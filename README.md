@@ -19,6 +19,7 @@ Presented research outcomes at various forums, engaging with the community and f
 3-Time Finalist in the STEM Fellowship High School Big Data Challenge.
 
 **Awards:**
+
 Let’s Talk Science Analytics Award (2023)
 
 Entrepreneurial Thinking Award (2022)
