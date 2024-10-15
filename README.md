@@ -20,9 +20,9 @@ Presented research outcomes at various forums, engaging with the community and f
 
 **Awards:**
 
-Let’s Talk Science Analytics Award (2023)
+- Let’s Talk Science Analytics Award (2023)
 
-Entrepreneurial Thinking Award (2022)
+- Entrepreneurial Thinking Award (2022)
 
 ## Skills and Technologies Used
 Programming Languages: Python
