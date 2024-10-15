@@ -20,12 +20,16 @@ Presented research outcomes at various forums, engaging with the community and f
 
 **Awards:**
 Let’s Talk Science Analytics Award (2023)
+
 Entrepreneurial Thinking Award (2022)
 
 ## Skills and Technologies Used
 Programming Languages: Python
+
 Data Analysis Techniques: Statistical analysis, data visualization
+
 Research Methodologies: Literature review, hypothesis testing, manuscript writing
+
 Tools: LaTeX for document preparation and formatting
 
 ## Conclusion
